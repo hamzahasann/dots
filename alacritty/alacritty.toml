@@ -72,14 +72,14 @@ text = "CellBackground"
 size = 15
 
 [font.bold]
-family = "JetBrains Mono ExtraBold"
+family = "MesloLGS NF"
 
 [font.glyph_offset]
 x = 0
 y = 0
 
 [font.italic]
-family = "JetBrains Mono"
+family = "MesloLGS NF"
 style = "Italic"
 
 [font.normal]

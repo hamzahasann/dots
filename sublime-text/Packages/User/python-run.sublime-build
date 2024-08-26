@@ -1,0 +1,4 @@
+{
+	"cmd": ["alacritty -e /usr/local/bin/python-run.sh $file"],
+	"shell": true
+}

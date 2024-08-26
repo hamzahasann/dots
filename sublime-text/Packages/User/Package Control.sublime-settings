@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"BeautifyRuby",
+		"Color Scheme - Pastels UI",
+		"ColorSchemeSelector",
+		"Colorsublime",
+		"Groupie",
+		"LSP",
+		"LSP-clangd",
+		"Origami",
+		"Package Control",
+		"Rubyfmt",
+		"SpaceDuck Color Scheme",
+		"SublimeLinter-gcc",
+		"WakaTime",
+	],
+	"in_process_packages":
+	[
+	],
+}

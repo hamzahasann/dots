@@ -1,0 +1,1500 @@
+{
+	"file_history":
+	[
+		"/home/hamza/CP/c4.cpp",
+		"/home/hamzahasan/CP/out.txt",
+		"/home/hamzahasan/CP/c4.cpp",
+		"/home/hamzahasan/CP/in.txt",
+		"/home/hamzahasan/CP/kactl/content/data-structures/SegmentTree.h",
+		"/home/hamzahasan/CP/kactl/content/geometry/SegmentDistance.h",
+		"/home/hamzahasan/CP/kactl/content/geometry/OnSegment.h",
+		"/home/hamzahasan/CP/kactl/content/geometry/CircleLine.h",
+		"/home/hamzahasan/CP/kactl/content/data-structures/UnionFind.h",
+		"/home/hamzahasan/CP/p0.py",
+		"/home/hamzahasan/Downloads/ruffle.js",
+		"/home/hamzahasan/H2/KACTL/content/graph/Dinic.h",
+		"/home/hamzahasan/CP/kactl/content/graph/Dinic.h",
+		"/home/hamzahasan/CP/kactl/content/graph/WeightedMatching.h",
+		"/home/hamzahasan/CP/kactl/content/graph/Dioni",
+		"/home/hamzahasan/.config/alacritty/alacritty.toml",
+		"/home/hamzahasan/c4.o",
+		"/home/hamzahasan/CP/c5.cpp",
+		"/home/hamzahasan/CP/c7.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/16.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/15.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/maxpoints.py",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/m.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/final.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/anytree.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/.gitignore",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/n.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/main16.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/main.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/basic.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/totalpoints.py",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/17.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/testgen.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/12.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/run_tests.sh",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/13.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/14.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/7.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/11.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/8.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/10.txt",
+		"/usr/include/x86_64-linux-gnu/bits/mathcalls.h",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/9.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/codefest.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/test1.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/pointsparser.py",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/4.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/5.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/6.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/2.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/3.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/maxvaltest.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/summation_materials/files/checker_publish.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/1.txt",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/nofabs",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/withfabs",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/in.txt",
+		"/home/hamzahasan/CP/IOIprep/IOI23/closing/cpp/closing.cpp",
+		"/home/hamzahasan/.config/sublime-text/Packages/User/Dracula.sublime-color-scheme",
+		"/home/hamzahasan/.config/sublime-text/Packages/Colorsublime - Themes/Dracula.tmTheme",
+		"/home/hamzahasan/CP/IOIprep/APIO23/sequence/cpp/sequence.cpp",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023/summation_materials/tests/16",
+		"/home/hamzahasan/CP/IOIprep/APIO23/cyberland/cpp/cyberland.h",
+		"/home/hamzahasan/CP/IOIprep/APIO23/cyberland/cpp/cyberland.cpp",
+		"/home/hamzahasan/.bashrc",
+		"/home/hamzahasan/H2/euler/p234.cpp",
+		"/home/hamzahasan/H2/euler/p131.cpp",
+		"/home/hamzahasan/H2/euler/p125.cpp",
+		"/home/hamzahasan/CP/c1.cpp",
+		"/home/hamzahasan/CP/kactl/content/graph/LinkCutTree.h",
+		"/home/hamzahasan/CP/kactl/content/graph/MinCostMaxFlow.h",
+		"/home/hamzahasan/CP/kactl/content/graph/GeneralMatching.h",
+		"/home/hamzahasan/CP/kactl/content/data-structures/Treap.h",
+		"/home/hamzahasan/Desktop/ac/out.txt",
+		"/home/hamzahasan/Desktop/ac/in.txt",
+		"/home/hamzahasan/Desktop/ac/a.cpp",
+		"/home/hamzahasan/CP/kactl/content/strings/SuffixArray.h",
+		"/home/hamzahasan/CP/c6.cpp",
+		"/home/hamzahasan/CP/c8.cpp",
+		"/home/hamzahasan/.config/sublime-text/Packages/User/solve.sublime-snippet",
+		"/home/hamzahasan/.config/sublime-text/Packages/User/cleanT.sublime-snippet",
+		"/home/hamzahasan/.config/sublime-text/Packages/User/clean.sublime-snippet",
+		"/home/hamzahasan/CP/kactl/content/data-structures/FenwickTree.h",
+		"/home/hamzahasan/CP/kactl/content/various/IntervalContainer.h",
+		"/home/hamzahasan/H2/kactl/content/graph/hopcroftKarp.h",
+		"/home/hamzahasan/H2/kactl/content/graph/HLD.h",
+		"/home/hamzahasan/H2/kactl/content/graph/DFSMatching.h",
+		"/home/hamzahasan/CP/c3.cpp",
+		"/home/hamzahasan/CP/kactl/content/number-theory/euclid.h",
+		"/home/hamzahasan/CP/kactl/content/data-structures/UnionFindRollback.h",
+		"/home/hamzahasan/CP/p1.py",
+		"/home/hamzahasan/CP/p2.py",
+		"/home/hamzahasan/CP/kactl/content/data-structures/LineContainer.h",
+		"/home/hamzahasan/H2/MarchingSquares/index.html",
+		"/home/hamzahasan/CP/kactl/content/data-structures/LazySegmentTree.h",
+		"/home/hamzahasan/H2/kactl/content/data-structures/SegmentTree.h",
+		"/home/hamzahasan/H2/kactl/content/data-structures/FenwickTree.h",
+		"/home/hamzahasan/H2/kactl/content/data-structures/FenwickTree",
+		"/home/hamzahasan/H2/kactl/content/data-structures/UnionFind.h",
+		"/home/hamzahasan/H2/kactl/content/data-structures/LazySegmentTree.h",
+		"/home/hamzahasan/H2/kactl/content/data-structures/Laz",
+		"/home/hamzahasan/CP/c2.cpp",
+		"/home/hamzahasan/H2/KACTL/content/contest/lambdaSort.cpp",
+		"/home/hamzahasan/Research/SATML/llm-attacks/experiments/configs/individual_llama2.py",
+		"/home/hamzahasan/H2/kactl/content/data-structures/OrderStatisticTree.h",
+		"/home/hamzahasan/GIKI/SEM5/AI341/tamatar/Plantx(code)/static/styles.css",
+		"/home/hamzahasan/H2/kactl/content/graph/LCA.h",
+		"/home/hamzahasan/H2/kactl/content/data-structures/RMQ.h",
+		"/home/hamzahasan/H2/kactl/content/graph/TopoSort.h",
+		"/home/hamzahasan/H2/ac-library/atcoder/lazysegtree.hpp",
+		"/home/hamzahasan/H2/kactl/content/strings/Hashing-codeforces.h",
+		"/home/hamzahasan/H2/kactl/content/numerical/FastSubsetTransform.h",
+		"/home/hamzahasan/H2/kactl/content/strings/Hashing.h",
+		"/home/hamzahasan/H2/kactl/content/number-theory/Eratosthenes.h",
+		"/home/hamzahasan/H2/kactl/content/data-structures/LineContainer.h",
+		"/home/hamzahasan/H2/kactl/content/data-structures/UnionFind",
+		"/home/hamzahasan/H2/kactl/content/graph/2sat.h",
+		"/home/hamzahasan/H2/euler/p258.cpp",
+		"/home/hamzahasan/H2/kactl/content/numerical/LinearRecurrence.h",
+		"/home/hamzahasan/H2/euler/p357.cpp",
+		"/home/hamzahasan/H2/euler/p862.cpp",
+		"/home/hamzahasan/H2/euler/p612.cpp",
+		"/home/hamzahasan/H2/euler/p387.cpp",
+		"/home/hamzahasan/H2/kactl/content/number-theory/MillerRabin.h",
+		"/home/hamzahasan/H2/kactl/content/number-theory/ModMulLL.h",
+		"/home/hamzahasan/H2/euler/p181.cpp",
+		"/home/hamzahasan/H2/euler/p142.cpp",
+		"/home/hamzahasan/H2/euler/p141.cpp"
+	],
+	"folder_history":
+	[
+		"/home/hamza/CP",
+		"/home/hamzahasan/CP",
+		"/home/hamzahasan/Desktop",
+		"/home/hamzahasan/CP/ICPC-Challenge-post2023",
+		"/home/hamzahasan/CP/IOIprep/IOI23",
+		"/home/hamzahasan/Desktop/ac",
+		"/home/hamzahasan/H2/Jswing-tut/src",
+		"/home/hamzahasan/H2/kactl/content/graph",
+		"/home/hamzahasan/H2/kactl",
+		"/usr/share/applications",
+		"/home/hamzahasan/H2/remotasks/d1",
+		"/home/hamzahasan/H2/DynoTyper",
+		"/home/hamzahasan/infotab/oriedita2",
+		"/home/hamzahasan/infotab/oriedita2/oriedita-ui",
+		"/home/hamzahasan/H2/metahackercup23/round1",
+		"/home/hamzahasan/GIKI/SEM5/CS311/a1",
+		"/home/hamzahasan/H2/Hacktober23/AlgorithmsPython",
+		"/etc/tlp.d",
+		"/home/hamzahasan/H2/remotasks",
+		"/home/hamzahasan/infotab/oriedita",
+		"/home/hamzahasan/infotab/oriedita/oriedita/src/main/java/oriedita/editor/handler",
+		"/home/hamzahasan/infotab/oriedita/oriedita-data/target/surefire-reports",
+		"/home/hamzahasan/H2/Raycasting"
+	],
+	"last_version": 4180,
+	"last_window_id": 79,
+	"log_indexing": false,
+	"next_update_check": 1724207813,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			79.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"kahan_sum",
+						"kahan_sum_interval"
+					],
+					[
+						"kahan",
+						"kahan_sum_interval"
+					],
+					[
+						"ve",
+						"solve\tsolve"
+					],
+					[
+						"upper",
+						"upper_bound"
+					],
+					[
+						"hash",
+						"hashString"
+					],
+					[
+						"size",
+						"sizeof"
+					],
+					[
+						"seg",
+						"segTree"
+					],
+					[
+						"hidd",
+						"gridAngleHidden"
+					],
+					[
+						"mouse",
+						"mouseClicked"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/cpp-run.sublime-build",
+							""
+						],
+						[
+							"Packages/User/python-run.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/cpp-run.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/cpp-run.sublime-build",
+							""
+						],
+						[
+							"Packages/User/python-run.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/python-run.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"form",
+						"LSP: Format File"
+					],
+					[
+						"forrm",
+						"Rubyfmt: Format ruby code"
+					],
+					[
+						"from",
+						"LSP: Format File"
+					],
+					[
+						"fomr",
+						"LSP: Format File"
+					],
+					[
+						"fo",
+						"LSP: Format File"
+					],
+					[
+						"for",
+						"LSP: Format File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"forma",
+						"LSP: Format File"
+					],
+					[
+						"color",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"trheme",
+						"ColorSchemeSelector: Random Color Scheme"
+					],
+					[
+						"color scheme",
+						"UI: Customize Color Scheme"
+					],
+					[
+						"theme",
+						"ColorSchemeSelector: Next Color Scheme"
+					],
+					[
+						"color ",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"minimap",
+						"View: Toggle Minimap"
+					],
+					[
+						"f",
+						"LSP: Format File"
+					],
+					[
+						"fro",
+						"LSP: Format File"
+					],
+					[
+						"fore",
+						"LSP: Format File"
+					],
+					[
+						"",
+						"Build: Cancel"
+					],
+					[
+						"arith",
+						"Arithmetic"
+					],
+					[
+						"format",
+						"Arithmetic"
+					],
+					[
+						"restar",
+						"LSP: Restart Server"
+					],
+					[
+						"restart",
+						"LSP: Restart Server"
+					],
+					[
+						"lsp",
+						"Preferences: LSP-clangd Settings"
+					],
+					[
+						"origami",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"formate",
+						"LSP: Format File"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keybin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"package Control: L",
+						"Package Control: List Packages"
+					],
+					[
+						"remove\\",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"fast",
+						"FastOlympicCoding: Make Stress"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"lsp:",
+						"LSP: Enable Language Server in Project"
+					],
+					[
+						"lsp:ena",
+						"LSP: Enable Language Server Globally"
+					],
+					[
+						"create pan b",
+						"Origami: Create Pane Below"
+					],
+					[
+						"orig",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"create pan belo",
+						"Origami: Create Pane Below"
+					],
+					[
+						"beua",
+						"BeautifyRuby"
+					],
+					[
+						"beau",
+						"BeautifyRuby"
+					],
+					[
+						"be",
+						"BeautifyRuby"
+					],
+					[
+						"beu",
+						"BeautifyRuby"
+					],
+					[
+						"beaut",
+						"BeautifyRuby"
+					],
+					[
+						"origami: create pane be",
+						"Origami: Create Pane Below"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"installl",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"colorscheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"Snippet: ",
+						"Snippet: solve"
+					],
+					[
+						"clangd",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"clang",
+						"Preferences: LSP-clangd Settings"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 598.0,
+				"history":
+				[
+					"quit",
+					"exit",
+					"exit()",
+					"2**3",
+					"clear",
+					"g++",
+					"asd",
+					"py",
+					"python3",
+					"python"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/hamza/CP/c2.cpp",
+				"/home/hamzahasan/CP/out.txt",
+				"/home/hamzahasan/CP/c4.cpp",
+				"/home/hamzahasan/CP/in.txt",
+				"/home/hamzahasan/CP/kactl/content/data-structures/SegmentTree.h",
+				"/home/hamzahasan/CP/kactl/content/geometry/SegmentDistance.h",
+				"/home/hamzahasan/CP/kactl/content/geometry/OnSegment.h",
+				"/home/hamzahasan/CP/kactl/content/geometry/CircleLine.h",
+				"/home/hamzahasan/CP/kactl/content/data-structures/UnionFind.h",
+				"/home/hamzahasan/CP/p0.py",
+				"/home/hamzahasan/Downloads/ruffle.js",
+				"/home/hamzahasan/H2/KACTL/content/graph/Dinic.h",
+				"/home/hamzahasan/CP/kactl/content/graph/Dinic.h",
+				"/home/hamzahasan/CP/kactl/content/graph/WeightedMatching.h",
+				"/home/hamzahasan/CP/kactl/content/graph/Dioni",
+				"/home/hamzahasan/.config/alacritty/alacritty.toml",
+				"/home/hamzahasan/c4.o",
+				"/home/hamzahasan/CP/c5.cpp",
+				"/home/hamzahasan/CP/c7.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/16.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/15.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/maxpoints.py",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/m.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/.gitignore",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/final.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/anytree.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/n.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/main16.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/main.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/basic.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/totalpoints.py",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/17.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/testgen.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/12.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/run_tests.sh",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/13.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/14.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/7.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/11.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/8.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/10.txt",
+				"/usr/include/x86_64-linux-gnu/bits/mathcalls.h",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/9.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/codefest.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/test1.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/pointsparser.py",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/4.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/5.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/6.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/2.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/3.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/maxvaltest.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/summation_materials/files/checker_publish.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/1.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/nofabs",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/withfabs",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/in.txt",
+				"/home/hamzahasan/CP/IOIprep/IOI23/closing/cpp/closing.cpp",
+				"/home/hamzahasan/CP/IOIprep/APIO23/sequence/cpp/sequence.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/summation_materials/tests/16",
+				"/home/hamzahasan/CP/IOIprep/APIO23/cyberland/cpp/cyberland.h",
+				"/home/hamzahasan/CP/IOIprep/APIO23/cyberland/cpp/cyberland.cpp",
+				"/home/hamzahasan/.bashrc",
+				"/home/hamzahasan/H2/euler/p234.cpp",
+				"/home/hamzahasan/H2/euler/p131.cpp",
+				"/home/hamzahasan/H2/euler/p125.cpp",
+				"/home/hamzahasan/CP/c1.cpp",
+				"/home/hamzahasan/CP/kactl/content/graph/LinkCutTree.h",
+				"/home/hamzahasan/CP/kactl/content/graph/MinCostMaxFlow.h",
+				"/home/hamzahasan/CP/kactl/content/graph/GeneralMatching.h",
+				"/home/hamzahasan/CP/kactl/content/data-structures/Treap.h",
+				"/home/hamzahasan/Desktop/ac/out.txt",
+				"/home/hamzahasan/Desktop/ac/in.txt",
+				"/home/hamzahasan/Desktop/ac/a.cpp",
+				"/home/hamzahasan/CP/kactl/content/strings/SuffixArray.h",
+				"/home/hamzahasan/CP/c6.cpp",
+				"/home/hamzahasan/CP/c8.cpp",
+				"/home/hamzahasan/.config/sublime-text/Packages/User/solve.sublime-snippet",
+				"/home/hamzahasan/.config/sublime-text/Packages/User/cleanT.sublime-snippet",
+				"/home/hamzahasan/.config/sublime-text/Packages/User/clean.sublime-snippet",
+				"/home/hamzahasan/CP/kactl/content/data-structures/FenwickTree.h",
+				"/home/hamzahasan/CP/kactl/content/various/IntervalContainer.h",
+				"/home/hamzahasan/H2/kactl/content/graph/hopcroftKarp.h",
+				"/home/hamzahasan/H2/kactl/content/graph/HLD.h",
+				"/home/hamzahasan/H2/kactl/content/graph/DFSMatching.h",
+				"/home/hamzahasan/CP/c3.cpp",
+				"/home/hamzahasan/CP/kactl/content/number-theory/euclid.h",
+				"/home/hamzahasan/CP/kactl/content/data-structures/UnionFindRollback.h",
+				"/home/hamzahasan/CP/p1.py",
+				"/home/hamzahasan/CP/p2.py",
+				"/home/hamzahasan/CP/kactl/content/data-structures/LineContainer.h",
+				"/home/hamzahasan/H2/MarchingSquares/index.html",
+				"/home/hamzahasan/CP/kactl/content/data-structures/LazySegmentTree.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/SegmentTree.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/FenwickTree.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/FenwickTree",
+				"/home/hamzahasan/H2/kactl/content/data-structures/UnionFind.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/LazySegmentTree.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/Laz",
+				"/home/hamzahasan/CP/c2.cpp",
+				"/home/hamzahasan/H2/KACTL/content/contest/lambdaSort.cpp",
+				"/home/hamzahasan/Research/SATML/llm-attacks/experiments/configs/individual_llama2.py",
+				"/home/hamzahasan/H2/kactl/content/data-structures/OrderStatisticTree.h",
+				"/home/hamzahasan/GIKI/SEM5/AI341/tamatar/Plantx(code)/static/styles.css",
+				"/home/hamzahasan/H2/kactl/content/graph/LCA.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/RMQ.h",
+				"/home/hamzahasan/H2/kactl/content/graph/TopoSort.h",
+				"/home/hamzahasan/H2/ac-library/atcoder/lazysegtree.hpp",
+				"/home/hamzahasan/H2/kactl/content/strings/Hashing-codeforces.h",
+				"/home/hamzahasan/H2/kactl/content/numerical/FastSubsetTransform.h",
+				"/home/hamzahasan/H2/kactl/content/strings/Hashing.h",
+				"/home/hamzahasan/H2/kactl/content/number-theory/Eratosthenes.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/LineContainer.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/UnionFind",
+				"/home/hamzahasan/H2/kactl/content/graph/2sat.h",
+				"/home/hamzahasan/H2/euler/p258.cpp",
+				"/home/hamzahasan/H2/kactl/content/numerical/LinearRecurrence.h",
+				"/home/hamzahasan/H2/euler/p357.cpp",
+				"/home/hamzahasan/H2/euler/p862.cpp",
+				"/home/hamzahasan/H2/euler/p612.cpp",
+				"/home/hamzahasan/H2/euler/p387.cpp",
+				"/home/hamzahasan/H2/kactl/content/number-theory/MillerRabin.h",
+				"/home/hamzahasan/H2/kactl/content/number-theory/ModMulLL.h",
+				"/home/hamzahasan/H2/euler/p181.cpp",
+				"/home/hamzahasan/H2/euler/p142.cpp",
+				"/home/hamzahasan/H2/euler/p141.cpp",
+				"/home/hamzahasan/H2/euler/p154.cpp",
+				"/home/hamzahasan/.config/polybar/config.ini"
+			],
+			"find":
+			{
+				"height": 45.0
+			},
+			"find_in_files":
+			{
+				"height": 289.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 45.0
+			},
+			"input":
+			{
+				"height": 293.0
+			},
+			"menu_visible": false,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 293.0
+			},
+			"output.exec":
+			{
+				"height": 293.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.references":
+			{
+				"height": 172.0
+			},
+			"pinned_build_system": "Packages/User/cpp-run.sublime-build",
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 740.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 457.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"kahan_sum",
+						"kahan_sum_interval"
+					],
+					[
+						"kahan",
+						"kahan_sum_interval"
+					],
+					[
+						"ve",
+						"solve\tsolve"
+					],
+					[
+						"upper",
+						"upper_bound"
+					],
+					[
+						"hash",
+						"hashString"
+					],
+					[
+						"size",
+						"sizeof"
+					],
+					[
+						"seg",
+						"segTree"
+					],
+					[
+						"hidd",
+						"gridAngleHidden"
+					],
+					[
+						"mouse",
+						"mouseClicked"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/hamza/CP/c2.cpp",
+					"settings":
+					{
+						"buffer_size": 4134,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "b"
+							},
+							"AQAAABgBAAAAAAAAGQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGAEAAAAAAAAYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"delete_word",
+							{
+								"forward": false
+							},
+							"AQAAABcBAAAAAAAAFwEAAAAAAAACAAAAcGI",
+							"AQAAAAAAAAACAAAAGAEAAAAAAAAYAQAAAAAAAAAAAAAAAPC/GQEAAAAAAAAZAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "p"
+							},
+							"AQAAABcBAAAAAAAAGAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFwEAAAAAAAAXAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/cpp-run.sublime-build",
+							""
+						],
+						[
+							"Packages/User/python-run.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/cpp-run.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/cpp-run.sublime-build",
+							""
+						],
+						[
+							"Packages/User/python-run.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/python-run.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"form",
+						"LSP: Format File"
+					],
+					[
+						"forrm",
+						"Rubyfmt: Format ruby code"
+					],
+					[
+						"from",
+						"LSP: Format File"
+					],
+					[
+						"fomr",
+						"LSP: Format File"
+					],
+					[
+						"fo",
+						"LSP: Format File"
+					],
+					[
+						"for",
+						"LSP: Format File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"forma",
+						"LSP: Format File"
+					],
+					[
+						"color",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"trheme",
+						"ColorSchemeSelector: Random Color Scheme"
+					],
+					[
+						"color scheme",
+						"UI: Customize Color Scheme"
+					],
+					[
+						"theme",
+						"ColorSchemeSelector: Next Color Scheme"
+					],
+					[
+						"color ",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"minimap",
+						"View: Toggle Minimap"
+					],
+					[
+						"f",
+						"LSP: Format File"
+					],
+					[
+						"fro",
+						"LSP: Format File"
+					],
+					[
+						"fore",
+						"LSP: Format File"
+					],
+					[
+						"",
+						"Build: Cancel"
+					],
+					[
+						"arith",
+						"Arithmetic"
+					],
+					[
+						"format",
+						"Arithmetic"
+					],
+					[
+						"restar",
+						"LSP: Restart Server"
+					],
+					[
+						"restart",
+						"LSP: Restart Server"
+					],
+					[
+						"lsp",
+						"Preferences: LSP-clangd Settings"
+					],
+					[
+						"origami",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"formate",
+						"LSP: Format File"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keybin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"package Control: L",
+						"Package Control: List Packages"
+					],
+					[
+						"remove\\",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"fast",
+						"FastOlympicCoding: Make Stress"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"lsp:",
+						"LSP: Enable Language Server in Project"
+					],
+					[
+						"lsp:ena",
+						"LSP: Enable Language Server Globally"
+					],
+					[
+						"create pan b",
+						"Origami: Create Pane Below"
+					],
+					[
+						"orig",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"create pan belo",
+						"Origami: Create Pane Below"
+					],
+					[
+						"beua",
+						"BeautifyRuby"
+					],
+					[
+						"beau",
+						"BeautifyRuby"
+					],
+					[
+						"be",
+						"BeautifyRuby"
+					],
+					[
+						"beu",
+						"BeautifyRuby"
+					],
+					[
+						"beaut",
+						"BeautifyRuby"
+					],
+					[
+						"origami: create pane be",
+						"Origami: Create Pane Below"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"installl",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"colorscheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"Snippet: ",
+						"Snippet: solve"
+					],
+					[
+						"clangd",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"clang",
+						"Preferences: LSP-clangd Settings"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 598.0,
+				"history":
+				[
+					"quit",
+					"exit",
+					"exit()",
+					"2**3",
+					"clear",
+					"g++",
+					"asd",
+					"py",
+					"python3",
+					"python"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/hamza/CP"
+			],
+			"file_history":
+			[
+				"/home/hamzahasan/CP/out.txt",
+				"/home/hamzahasan/CP/c4.cpp",
+				"/home/hamzahasan/CP/in.txt",
+				"/home/hamzahasan/CP/kactl/content/data-structures/SegmentTree.h",
+				"/home/hamzahasan/CP/kactl/content/geometry/SegmentDistance.h",
+				"/home/hamzahasan/CP/kactl/content/geometry/OnSegment.h",
+				"/home/hamzahasan/CP/kactl/content/geometry/CircleLine.h",
+				"/home/hamzahasan/CP/kactl/content/data-structures/UnionFind.h",
+				"/home/hamzahasan/CP/p0.py",
+				"/home/hamzahasan/Downloads/ruffle.js",
+				"/home/hamzahasan/H2/KACTL/content/graph/Dinic.h",
+				"/home/hamzahasan/CP/kactl/content/graph/Dinic.h",
+				"/home/hamzahasan/CP/kactl/content/graph/WeightedMatching.h",
+				"/home/hamzahasan/CP/kactl/content/graph/Dioni",
+				"/home/hamzahasan/.config/alacritty/alacritty.toml",
+				"/home/hamzahasan/c4.o",
+				"/home/hamzahasan/CP/c5.cpp",
+				"/home/hamzahasan/CP/c7.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/16.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/15.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/maxpoints.py",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/m.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/.gitignore",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/final.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/anytree.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/n.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/main16.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/main.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/basic.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/totalpoints.py",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/17.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/testgen.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/12.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/run_tests.sh",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/13.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/14.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/7.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/11.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/8.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/10.txt",
+				"/usr/include/x86_64-linux-gnu/bits/mathcalls.h",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/9.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/codefest.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/test1.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/pointsparser.py",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/4.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/5.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/6.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/2.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/3.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/maxvaltest.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/summation_materials/files/checker_publish.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/submissions/1.txt",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/nofabs",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/withfabs",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/in.txt",
+				"/home/hamzahasan/CP/IOIprep/IOI23/closing/cpp/closing.cpp",
+				"/home/hamzahasan/CP/IOIprep/APIO23/sequence/cpp/sequence.cpp",
+				"/home/hamzahasan/CP/ICPC-Challenge-post2023/summation_materials/tests/16",
+				"/home/hamzahasan/CP/IOIprep/APIO23/cyberland/cpp/cyberland.h",
+				"/home/hamzahasan/CP/IOIprep/APIO23/cyberland/cpp/cyberland.cpp",
+				"/home/hamzahasan/.bashrc",
+				"/home/hamzahasan/H2/euler/p234.cpp",
+				"/home/hamzahasan/H2/euler/p131.cpp",
+				"/home/hamzahasan/H2/euler/p125.cpp",
+				"/home/hamzahasan/CP/c1.cpp",
+				"/home/hamzahasan/CP/kactl/content/graph/LinkCutTree.h",
+				"/home/hamzahasan/CP/kactl/content/graph/MinCostMaxFlow.h",
+				"/home/hamzahasan/CP/kactl/content/graph/GeneralMatching.h",
+				"/home/hamzahasan/CP/kactl/content/data-structures/Treap.h",
+				"/home/hamzahasan/Desktop/ac/out.txt",
+				"/home/hamzahasan/Desktop/ac/in.txt",
+				"/home/hamzahasan/Desktop/ac/a.cpp",
+				"/home/hamzahasan/CP/kactl/content/strings/SuffixArray.h",
+				"/home/hamzahasan/CP/c6.cpp",
+				"/home/hamzahasan/CP/c8.cpp",
+				"/home/hamzahasan/.config/sublime-text/Packages/User/solve.sublime-snippet",
+				"/home/hamzahasan/.config/sublime-text/Packages/User/cleanT.sublime-snippet",
+				"/home/hamzahasan/.config/sublime-text/Packages/User/clean.sublime-snippet",
+				"/home/hamzahasan/CP/kactl/content/data-structures/FenwickTree.h",
+				"/home/hamzahasan/CP/kactl/content/various/IntervalContainer.h",
+				"/home/hamzahasan/H2/kactl/content/graph/hopcroftKarp.h",
+				"/home/hamzahasan/H2/kactl/content/graph/HLD.h",
+				"/home/hamzahasan/H2/kactl/content/graph/DFSMatching.h",
+				"/home/hamzahasan/CP/c3.cpp",
+				"/home/hamzahasan/CP/kactl/content/number-theory/euclid.h",
+				"/home/hamzahasan/CP/kactl/content/data-structures/UnionFindRollback.h",
+				"/home/hamzahasan/CP/p1.py",
+				"/home/hamzahasan/CP/p2.py",
+				"/home/hamzahasan/CP/kactl/content/data-structures/LineContainer.h",
+				"/home/hamzahasan/H2/MarchingSquares/index.html",
+				"/home/hamzahasan/CP/kactl/content/data-structures/LazySegmentTree.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/SegmentTree.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/FenwickTree.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/FenwickTree",
+				"/home/hamzahasan/H2/kactl/content/data-structures/UnionFind.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/LazySegmentTree.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/Laz",
+				"/home/hamzahasan/CP/c2.cpp",
+				"/home/hamzahasan/H2/KACTL/content/contest/lambdaSort.cpp",
+				"/home/hamzahasan/Research/SATML/llm-attacks/experiments/configs/individual_llama2.py",
+				"/home/hamzahasan/H2/kactl/content/data-structures/OrderStatisticTree.h",
+				"/home/hamzahasan/GIKI/SEM5/AI341/tamatar/Plantx(code)/static/styles.css",
+				"/home/hamzahasan/H2/kactl/content/graph/LCA.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/RMQ.h",
+				"/home/hamzahasan/H2/kactl/content/graph/TopoSort.h",
+				"/home/hamzahasan/H2/ac-library/atcoder/lazysegtree.hpp",
+				"/home/hamzahasan/H2/kactl/content/strings/Hashing-codeforces.h",
+				"/home/hamzahasan/H2/kactl/content/numerical/FastSubsetTransform.h",
+				"/home/hamzahasan/H2/kactl/content/strings/Hashing.h",
+				"/home/hamzahasan/H2/kactl/content/number-theory/Eratosthenes.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/LineContainer.h",
+				"/home/hamzahasan/H2/kactl/content/data-structures/UnionFind",
+				"/home/hamzahasan/H2/kactl/content/graph/2sat.h",
+				"/home/hamzahasan/H2/euler/p258.cpp",
+				"/home/hamzahasan/H2/kactl/content/numerical/LinearRecurrence.h",
+				"/home/hamzahasan/H2/euler/p357.cpp",
+				"/home/hamzahasan/H2/euler/p862.cpp",
+				"/home/hamzahasan/H2/euler/p612.cpp",
+				"/home/hamzahasan/H2/euler/p387.cpp",
+				"/home/hamzahasan/H2/kactl/content/number-theory/MillerRabin.h",
+				"/home/hamzahasan/H2/kactl/content/number-theory/ModMulLL.h",
+				"/home/hamzahasan/H2/euler/p181.cpp",
+				"/home/hamzahasan/H2/euler/p142.cpp",
+				"/home/hamzahasan/H2/euler/p141.cpp",
+				"/home/hamzahasan/H2/euler/p154.cpp",
+				"/home/hamzahasan/.config/polybar/config.ini",
+				"/home/hamzahasan/H2/euler/p336.cpp"
+			],
+			"find":
+			{
+				"height": 45.0
+			},
+			"find_in_files":
+			{
+				"height": 289.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/hamza/CP"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/hamza/CP/c2.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4134,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										292,
+										292
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html, text.xml"
+										},
+										{
+											"rhs_empty": true,
+											"selector": "punctuation.accessor"
+										},
+										{
+											"characters": ".<>:\"/*",
+											"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+											"server": "clangd"
+										}
+									],
+									"lsp_active": true,
+									"lsp_uri": "file:///home/hamza/CP/c2.cpp",
+									"show_definitions": false,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 45.0
+			},
+			"input":
+			{
+				"height": 293.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 293.0
+			},
+			"output.exec":
+			{
+				"height": 293.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.references":
+			{
+				"height": 172.0
+			},
+			"pinned_build_system": "Packages/User/cpp-run.sublime-build",
+			"position": "0,1,0,0,0,0,32,1920,1033,1920,1080,2",
+			"project": "",
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 740.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 457.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 79,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

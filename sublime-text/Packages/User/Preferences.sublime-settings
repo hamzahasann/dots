@@ -1,0 +1,21 @@
+{
+	"font_size": 15,
+	"font_face": "JetBrains Mono",
+	"font_options": ["no_liga", "no_clig", "no_calt"],
+	"theme": "Default Dark.sublime-theme",
+	"show_panel_on_build": false,
+	"ui_scale": 1.25,
+	"file_exclude_patterns": ["*.exe","*.out"],
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"auto_complete": false,
+	"enable_tab_scrolling": false,
+	"word_wrap": "true",
+	"hot_exit": "false",
+	"remember_open_files": false,
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Bittersweet.tmTheme",
+	"original_color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/2112.tmTheme",
+	"index_files": true,
+}

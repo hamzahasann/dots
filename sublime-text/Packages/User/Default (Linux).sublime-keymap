@@ -1,0 +1,16 @@
+[
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar"},
+	{
+        "command": "lsp_show_diagnostics_panel",
+        "keys": [
+            "ctrl+alt+b"
+        ],
+        "context": [
+            {
+                "key": "setting.lsp_active"
+            }
+        ]
+    },
+    { "keys": ["ctrl+tab"], "command": "focus_neighboring_group"}
+]

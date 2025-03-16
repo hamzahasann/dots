@@ -7,6 +7,7 @@ alias g=git
 alias gs="git status"
 alias gf="git fetch"
 alias gc="git commit"
+alias gl="git log"
 alias hx='helix'
 export EDITOR='helix'
 export ANDROID_SDK_ROOT="/home/hamza/Android/Sdk"

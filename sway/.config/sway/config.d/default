@@ -254,3 +254,7 @@ workspace 10 output eDP-1
 # clipboard setup, does not work??
 exec wl-paste -t text --watch clipman store
 bindsym $mod+v exec clipman pick --tool=wofi
+
+
+# mouse warping??
+mouse_warping none

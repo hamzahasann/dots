@@ -1,3 +1,6 @@
+[terminal]
+shell = { program = "/usr/bin/fish", args = ["-l"] }
+
 [colors.bright]
 black = "#6272a4"
 blue = "#d6acff"
@@ -56,10 +59,10 @@ cursor = "CellForeground"
 text = "CellBackground"
 
 [font]
-size = 15
+size = 16
 
 [font.bold]
-family = "MesloLGS NF"
+family = "Ubuntu Mono"
 style = "Bold"
 
 [font.glyph_offset]
@@ -67,11 +70,11 @@ x = 0
 y = 0
 
 [font.italic]
-family = "MesloLGS NF"
+family = "Ubuntu Mono"
 style = "Italic"
 
 [font.normal]
-family = "MesloLGS NF"
+family = "Ubuntu Mono"
 
 [font.offset]
 x = 0
@@ -79,7 +82,7 @@ y = 0
 
 [window]
 decorations = "full"
-opacity = 0.65
+opacity = 0.9
 
 [window.dimensions]
 columns = 70

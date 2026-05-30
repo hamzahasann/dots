@@ -1,6 +1,7 @@
 theme = Monokai Pro Spectrum
 font-family = MesloLGS Nerd Font Mono
 font-size = 15
+font-thicken = true
 background = #222222
 foreground = #f7f1ff
 bold-color = #eaf2f1

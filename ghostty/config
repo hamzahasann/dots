@@ -50,6 +50,7 @@ keybind = super+shift+k=text:\x1b[5;30008~
 keybind = super+shift+l=text:\x1b[5;30009~
 
 keybind = super+s=text:\x1b[5;30010~
+keybind = super+e=text:\x1b[5;30023~
 keybind = super+x=text:\x1b[5;30011~
 keybind = super+t=text:\x1b[5;30012~
 keybind = super+n=text:\x1b[5;30013~

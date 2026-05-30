@@ -1,84 +1,73 @@
-# This is the configuration file for Ghostty.
-#
-# This template file has been automatically created at the following
-# path since Ghostty couldn't find any existing config files on your system:
-#
-#   /home/hamza/.config/ghostty/config
-#
-# The template does not set any default options, since Ghostty ships
-# with sensible defaults for all options. Users should only need to set
-# options that they want to change from the default.
-#
-# Run `ghostty +show-config --default --docs` to view a list of
-# all available config options and their default values.
-#
-# Additionally, each config option is also explained in detail
-# on Ghostty's website, at https://ghostty.org/docs/config.
-#
-# Ghostty can reload the configuration while running by using the menu
-# options or the bound key (default: Command + Shift + comma on macOS and
-# Control + Shift + comma on other platforms). Not all config options can be
-# reloaded while running; some only apply to new windows and others may require
-# a full restart to take effect.
-
-# Config syntax crash course
-# ==========================
-# # The config file consists of simple key-value pairs,
-# # separated by equals signs.
-# font-family = Iosevka
-# window-padding-x = 2
-#
-# # Spacing around the equals sign does not matter.
-# # All of these are identical:
-# key=value
-# key= value
-# key =value
-# key = value
-#
-# # Any line beginning with a # is a comment. It's not possible to put
-# # a comment after a config option, since it would be interpreted as a
-# # part of the value. For example, this will have a value of "#123abc":
-# background = #123abc
-#
-# # Empty values are used to reset config keys to default.
-# key =
-#
-# # Some config options have unique syntaxes for their value,
-# # which is explained in the docs for that config option.
-# # Just for example:
-# resize-overlay-duration = 4s 200ms
-
-window-decoration = false
-
-# Disable ligatures
-font-feature = -calt
-font-feature = -liga
-font-feature = -dlig
-
-# Cursor: Block, no blink
+theme = Monokai Pro Spectrum
+font-family = MesloLGS Nerd Font Mono
+font-size = 15
+background = #222222
+foreground = #f7f1ff
+bold-color = #eaf2f1
+selection-background = #39383a
+selection-foreground = #eaf2f1
 cursor-style = block
 cursor-style-blink = false
+cursor-color = #f7f1ff
+cursor-text = #ffffff
 shell-integration-features = no-cursor
+background-opacity = 1
+background-blur = false
+macos-titlebar-style = native
+macos-window-buttons = visible
+macos-option-as-alt = true
+window-decoration = auto
+maximize = true
+window-width = 180
+window-height = 55
+scrollback-limit = 3000
+unfocused-split-opacity = 1
+split-divider-color = #69676c
 
-# Mouse behavior
-mouse-hide-while-typing = true
-
-# Splits and Navigation
-keybind = alt+d=new_split:right
-keybind = alt+shift+d=new_split:down
-
-# Vim-like split navigation
+# Navigate Ghostty splits/panes with Option/Alt + Vim keys.
 keybind = alt+h=goto_split:left
-keybind = alt+j=goto_split:bottom
-keybind = alt+k=goto_split:top
+keybind = alt+j=goto_split:down
+keybind = alt+k=goto_split:up
 keybind = alt+l=goto_split:right
 
-# Disable unfocused dimming/opacity
-unfocused-split-opacity = 1.0
+# tmux Cmd-key workflow.
+# Ghostty cannot make keybinds conditional on "inside tmux". These bindings
+# override Ghostty's default Cmd shortcuts and send tmux User-key escape
+# sequences to the foreground program. tmux maps those sequences in
+# ~/.config/tmux/tmux.conf.
+keybind = super+d=text:\x1b[5;30000~
+keybind = super+shift+d=text:\x1b[5;30001~
 
-# Tab Style
-window-show-tab-bar = never
-keybind = alt+a=toggle_tab_overview
+keybind = super+h=text:\x1b[5;30002~
+keybind = super+j=text:\x1b[5;30003~
+keybind = super+k=text:\x1b[5;30004~
+keybind = super+l=text:\x1b[5;30005~
 
-# Notifications
-app-notifications = no-clipboard-copy
+keybind = super+shift+h=text:\x1b[5;30006~
+keybind = super+shift+j=text:\x1b[5;30007~
+keybind = super+shift+k=text:\x1b[5;30008~
+keybind = super+shift+l=text:\x1b[5;30009~
+
+keybind = super+s=text:\x1b[5;30010~
+keybind = super+x=text:\x1b[5;30011~
+keybind = super+t=text:\x1b[5;30012~
+keybind = super+n=text:\x1b[5;30013~
+
+keybind = super+digit_1=text:\x1b[5;30014~
+keybind = super+1=text:\x1b[5;30014~
+keybind = super+digit_2=text:\x1b[5;30015~
+keybind = super+2=text:\x1b[5;30015~
+keybind = super+digit_3=text:\x1b[5;30016~
+keybind = super+3=text:\x1b[5;30016~
+keybind = super+digit_4=text:\x1b[5;30017~
+keybind = super+4=text:\x1b[5;30017~
+keybind = super+digit_5=text:\x1b[5;30018~
+keybind = super+5=text:\x1b[5;30018~
+keybind = super+digit_6=text:\x1b[5;30019~
+keybind = super+6=text:\x1b[5;30019~
+keybind = super+digit_7=text:\x1b[5;30020~
+keybind = super+7=text:\x1b[5;30020~
+keybind = super+digit_8=text:\x1b[5;30021~
+keybind = super+8=text:\x1b[5;30021~
+keybind = super+digit_9=text:\x1b[5;30022~
+keybind = super+9=text:\x1b[5;30022~

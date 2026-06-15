@@ -1,0 +1,221 @@
+// Zed settings
+//
+// For information on how configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "ssh_connections": [
+    {
+      "host": "aw",
+      "username": "hamza",
+      "args": [],
+      "projects": [
+        {
+          "paths": [
+            "/home/hamza/H2/aw"
+          ]
+        },
+      ]
+    }
+  ],
+  "edit_predictions": {
+    "mode": "eager",
+    "provider": "copilot"
+  },
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "cli_default_open_behavior": "new_window",
+  "proxy": "",
+  "disable_ai": false,
+  "diff_view_style": "unified",
+  "agent_servers": {
+    "opencode": {
+      "type": "registry"
+    },
+    "claude-acp": {
+      "type": "registry"
+    }
+  },
+  "outline_panel": {
+    "dock": "right"
+  },
+  "collaboration_panel": {
+    "dock": "right"
+  },
+  "show_edit_predictions": true,
+  "enable_language_server": true,
+  "diagnostics": {
+    "inline": {
+      "padding": 4
+    }
+  },
+  "vim": {
+    "toggle_relative_line_numbers": false
+  },
+  "current_line_highlight": "all",
+  "git": {
+    "disable_git": false
+  },
+  "gutter": {
+    "min_line_number_digits": 0,
+    "folds": false,
+    "breakpoints": true,
+    "runnables": false,
+    "line_numbers": true
+  },
+  "which_key": {
+    "enabled": false
+  },
+  "remove_trailing_whitespace_on_save": false,
+  "agent": {
+    "dock": "left",
+    "tool_permissions": {
+      "default": "allow"
+    },
+    "play_sound_when_agent_done": "always",
+    "default_profile": "write",
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "claude-sonnet-4.5"
+    },
+    "model_parameters": []
+  },
+  "vim_mode": false,
+  "git_panel": {
+    "tree_view": true,
+    "sort_by_path": false,
+    "status_style": "icon",
+    "dock": "right"
+  },
+  "helix_mode": true,
+  "format_on_save": "off",
+  "tabs": {
+    "file_icons": false,
+    "git_status": false
+  },
+  "title_bar": {
+    "show_onboarding_banner": false,
+    "show_project_items": false,
+    "show_branch_status_icon": false,
+    "show_user_picture": false,
+    "show_sign_in": false,
+    "show_menus": false,
+    "show_branch_name": false,
+    "show_user_menu": false,
+  },
+  "search": {
+    "button": false
+  },
+  "debugger": {
+    "button": false
+  },
+  "terminal": {
+    "button": false
+  },
+  "status_bar": {
+    "cursor_position_button": false,
+    // "experimental.show": false,
+    "active_language_button": false
+  },
+  "project_panel": {
+    "hide_hidden": false,
+    "hide_root": true,
+    "sticky_scroll": true,
+    "show_diagnostics": "errors",
+    "scrollbar": {
+      "show": "never"
+    },
+    "auto_fold_dirs": true,
+    "starts_open": false,
+    "auto_reveal_entries": true,
+    "indent_size": 20.0,
+    "git_status": true,
+    "folder_icons": true,
+    "file_icons": true,
+    "entry_spacing": "standard",
+    "hide_gitignore": false,
+    "dock": "right",
+    "button": true
+  },
+  "ui_font_weight": 400.0,
+  "ui_font_family": ".ZedSans",
+  "buffer_line_height": "standard",
+  "buffer_font_weight": 500.0,
+  "buffer_font_family": "MesloLGM Nerd Font",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "preview_tabs": {
+    "enabled": false
+  },
+  "tab_bar": {
+    "show_nav_history_buttons": false,
+    "show": false
+  },
+  "multi_cursor_modifier": "alt",
+  "minimap": {
+    "show": "never"
+  },
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 0
+    }
+  },
+  "wrap_guides": [
+    40
+  ],
+  "soft_wrap": "editor_width",
+  "base_keymap": "VSCode",
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Zed (Default)",
+    "dark": "Warm Charmed Icons"
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  "theme": {
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "Gruvbox Dark Hard"
+  },
+  "theme_overrides": {
+    "Aura Dark": {
+      "border.variant": "#15141C",
+      "border": "#15141C",
+      "title_bar.background": "#15141C",
+      "background": "#15141C",
+      "pane.focused_border": "#4E466E",
+      "players": [
+        {
+          "cursor": "#BD9DFF",
+        }
+      ],
+      "syntax": {
+        "comment": {
+          "font_style": "italic",
+        },
+        "comment.doc": {
+          "font_style": "italic"
+        }
+      }
+    },
+  },
+  "toolbar": {
+    "code_actions": true,
+    "agent_review": true,
+    "selections_menu": true,
+    "breadcrumbs": true,
+    "quick_actions": false
+  },
+  "hide_mouse": "on_typing_and_action",
+  "cursor_blink": false,
+  "scrollbar": {
+    "show": "never"
+  },
+  "relative_line_numbers": "disabled",
+}

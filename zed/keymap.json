@@ -1,0 +1,60 @@
+// Zed keymap
+//
+// For information on binding keys, see the Zed
+// documentation: https://zed.dev/docs/key-bindings
+//
+// To see the default key bindings run `zed: open default keymap`
+// from the command palette.
+[
+  {
+    "context": "Editor && mode == full",
+    "use_key_equivalents": true,
+    "bindings": {
+      "cmd-p": "command_palette::Toggle",
+      "cmd-t": "task::Spawn",
+      "cmd-e": null,
+      "cmd-enter": ["task::Rerun", { "reevaluate_context": true }],
+      "cmd-shift-enter": ["task::Spawn", { "task_name": "CP run" }]
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-e": "file_finder::Toggle",
+      "cmd-t": "task::Spawn"
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-p": null,
+      "cmd-shift-p": null,
+      "cmd-b": null
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-b": "workspace::ToggleRightDock",
+      "cmd-shift-g": "git_panel::ToggleFocus"
+    }
+  },
+  {
+    "context": "Pane",
+    "bindings": {
+      "cmd-shift-g": "git_panel::ToggleFocus"
+    }
+  },
+  {
+    "context": "ContextEditor > Editor",
+    "bindings": {
+      "cmd-shift-g": null
+    }
+  },
+  {
+    "context": "Pane",
+    "bindings": {
+      "ctrl-=": "pane::GoForward"
+    }
+  }
+]

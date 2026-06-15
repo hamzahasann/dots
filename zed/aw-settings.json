@@ -1,0 +1,87 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Zed (Default)",
+    "dark": "Zed (Default)"
+  },
+  "window_decorations": "server",
+  "use_system_window_tabs": false,
+  "focus_follows_mouse": {
+    "enabled": false
+  },
+  "tabs": {
+    "git_status": true
+  },
+  "title_bar": {
+    "show_branch_name": true,
+    "show_project_items": false,
+    "show_onboarding_banner": false,
+    "show_menus": false,
+    "show_user_picture": false,
+    "show_user_menu": false,
+    "show_sign_in": false,
+    "show_branch_status_icon": true
+  },
+  "debugger": {
+    "button": false
+  },
+  "search": {
+    "button": false
+  },
+  "diagnostics": {
+    "button": true
+  },
+  "status_bar": {
+    "show_active_file": false,
+    "line_endings_button": false,
+    "cursor_position_button": true
+  },
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 0
+    }
+  },
+  "soft_wrap": "editor_width",
+  "tab_bar": {
+    "show": false
+  },
+  "diff_view_style": "unified",
+  "cli_default_open_behavior": "existing_window",
+  "edit_predictions": {
+    "ollama": {
+      "max_output_tokens": 128
+    },
+    "provider": "copilot"
+  },
+  "buffer_font_weight": 650.0,
+  "buffer_font_family": "JetBrains Mono NL",
+  "agent_buffer_font_size": 15.0,
+  "ui_font_family": ".ZedSans",
+  "terminal": {
+    "button": false,
+    "font_family": "JetBrains Mono",
+    "font_weight": 500.0
+  },
+  "helix_mode": true,
+  "agent_ui_font_size": 14.0,
+  "agent_servers": {
+    "claude-acp": {
+      "type": "registry"
+    }
+  },
+  "ui_font_size": 15.0,
+  "buffer_font_size": 19.0,
+  "theme": {
+    "mode": "dark",
+    "light": "Gruvbox Light",
+    "dark": "Gruvbox Dark Hard",
+  },
+}

@@ -30,3 +30,5 @@ hl.bind("ALT + Q", hl.dsp.window.close())
 
 hl.unbind("SUPER + BACKSLASH")
 hl.bind("SUPER + BACKSLASH", hl.dsp.layout("togglesplit"))
+
+hl.unbind("SUPER + W")

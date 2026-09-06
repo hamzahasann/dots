@@ -1,0 +1,10 @@
+[Unit]
+Description=Refresh the package manifest at midnight
+
+[Timer]
+OnCalendar=*-*-* 00:00:00
+Persistent=true
+Unit=pkglist-sync.service
+
+[Install]
+WantedBy=timers.target

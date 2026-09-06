@@ -1,0 +1,6 @@
+[Unit]
+Description=Refresh and commit the portable package manifest
+
+[Service]
+Type=oneshot
+ExecStart=%h/H2/dots/pkgs/scripts/pkglist-sync

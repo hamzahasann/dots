@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -Eeuo pipefail
+
+readonly repo="$HOME/H2/dots/pkgs"
+readonly manifest="$repo/pkglist.txt"
+
+tmp=$(mktemp "$repo/.pkglist.txt.XXXXXX")
+trap 'rm -f "$tmp"' EXIT
+
+LC_ALL=C /usr/bin/pacman -Qqent | LC_ALL=C /usr/bin/sort -u >"$tmp"
+
+if [[ ! -f "$manifest" ]] || ! /usr/bin/cmp -s "$tmp" "$manifest"; then
+  /usr/bin/mv "$tmp" "$manifest"
+fi
+
+[[ "${PKGLIST_NO_COMMIT:-0}" == 1 ]] && exit 0
+
+if ! /usr/bin/git -C "$repo" ls-files --error-unmatch -- pkglist.txt >/dev/null 2>&1 \
+  || ! /usr/bin/git -C "$repo" diff --quiet -- pkglist.txt \
+  || ! /usr/bin/git -C "$repo" diff --cached --quiet -- pkglist.txt; then
+  /usr/bin/git -C "$repo" add -- pkglist.txt
+  /usr/bin/git -C "$repo" commit --only -m "pkglist: $(/usr/bin/date +%d-%m-%Y)" -- pkglist.txt
+fi

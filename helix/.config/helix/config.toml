@@ -1,9 +1,9 @@
-theme = "mydracula"
+theme = "rose_pine"
 
 [editor]
 line-number = "relative"
 mouse = true
-clipboard-provider = "x-clip"
+clipboard-provider = "wayland"
 cursorline = true
 continue-comments = false
 auto-format = true
@@ -37,8 +37,11 @@ mode.select = "S"
 [editor.lsp]
 # display-inlay-hints = true
 
+[editor.auto-save]
+focus-lost = true
+after-delay.enable = true
+after-delay.timeout = 1000
 
 [keys.normal]
 esc = ["collapse_selection", "keep_primary_selection"]
-
 

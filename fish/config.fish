@@ -1,13 +1,15 @@
-if status is-interactive
-    set -U fish_greeting
+source /usr/share/cachyos-fish-config/cachyos-config.fish
+
+# overwrite greeting
+# potentially disabling fastfetch
+function fish_greeting
+    # smth smth
 end
 
-set --erase fish_greeting
-function fish_greeting
-end # override default function (no output)
+set EDITOR hx
+alias qq=yazi
 
 alias g=git
-alias gk="source ~/Refact/secrets.sh"
 alias gg=lazygit
 alias gl="git log"
 alias gls="git log --stat"
@@ -17,41 +19,27 @@ alias gcp="git cherry-pick"
 alias gcpc="git cherry-pick --continue --no-edit"
 alias gcps="git cherry-pick --skip"
 alias gs="git status"
-alias rr="git rebase --continue"
-alias qq=yazi
+
 alias ls="eza -l"
-alias code="code-insiders"
-set -Ux EDITOR hx
 
-direnv hook fish | source
+# Insert a directory selected with fzf at the current prompt.
+function __fzf_select_directory
+    set -l selected_dir (
+        command fzf \
+            --walker=dir,follow,hidden \
+            --walker-skip=.git \
+            --scheme=path \
+            --height=40% \
+            --reverse \
+            --no-multi \
+            --print0 | string split0
+    )
 
-function pull_mox
-    set ip $argv[1]
-    rsync -az --delete hamza@$ip:$mox_path $nox_path
+    if test -n "$selected_dir"
+        commandline --insert -- (string escape -- "$selected_dir")
+    end
+
+    commandline -f repaint
 end
 
-function push_nox
-    set ip $argv[1]
-    rsync -az --delete $nox_path hamza@$ip:$mox_path
-end
-
-set -gx FLXS_DEFAULT_PERSONAS_IMAGE $bot_store
-set -gx FLXS_DEFAULT_TRTLLM_IMAGE $trtllm_image
-set -gx FLXS_DEFAULT_JAX_IMAGE $jax_image
-
-# opencode
-fish_add_path /Users/hamza/.opencode/bin
-# Add Google Cloud SDK to PATH
-set -gx PATH /opt/homebrew/share/google-cloud-sdk/bin $PATH
-set -gx PATH /Applications/Ghostty.app/Contents/MacOS $PATH
-
-alias k=kubectl
-
-# Added by OrbStack: command-line tools and integration
-# This won't be added again if you remove it.
-source ~/.orbstack/shell/init2.fish 2>/dev/null || :
-
-# bun
-set --export BUN_INSTALL "$HOME/.bun"
-set --export PATH $BUN_INSTALL/bin $PATH
-set -gx PATH $HOME/.cargo/bin $PATH
+bind \ct __fzf_select_directory

@@ -53,6 +53,7 @@ libgsf
 limine-snapper-sync
 linux-cachyos-headers
 linux-cachyos-lts-headers
+localsend
 logrotate
 lsb-release
 lsscsi
@@ -78,8 +79,9 @@ ttf-opensans
 ufw-extras
 unrar
 unzip
-vlc-plugins-all
+vlc
 xdg-user-dirs
 xl2tpd
 yazi
+yt-dlp
 zotero

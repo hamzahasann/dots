@@ -38,6 +38,7 @@ ffmpegthumbnailer
 firefox
 fsarchiver
 glances
+glow
 gst-libav
 gst-plugins-bad
 gst-plugins-ugly
@@ -64,6 +65,7 @@ nano-syntax-highlighting
 netctl
 networkmanager-openvpn
 nfs-utils
+obsidian
 os-prober
 pass-otp
 pavucontrol

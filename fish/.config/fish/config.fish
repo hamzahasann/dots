@@ -7,7 +7,7 @@ function fish_greeting
 end
 
 set EDITOR hx
-alias qq=yazi
+fish_add_path ~/.local/bin
 
 alias g=git
 alias gg=lazygit
@@ -20,7 +20,11 @@ alias gcpc="git cherry-pick --continue --no-edit"
 alias gcps="git cherry-pick --skip"
 alias gs="git status"
 
+zoxide init fish | source
+
 alias ls="eza -l"
+alias cd=z
+alias qq=yazi
 
 # Insert a directory selected with fzf at the current prompt.
 function __fzf_select_directory

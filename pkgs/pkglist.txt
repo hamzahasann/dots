@@ -37,6 +37,7 @@ ethtool
 ffmpegthumbnailer
 firefox
 fsarchiver
+ghostwriter
 glances
 glow
 gst-libav

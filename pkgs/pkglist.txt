@@ -67,6 +67,7 @@ netctl
 networkmanager-openvpn
 nfs-utils
 obsidian
+opam
 os-prober
 pass-otp
 pavucontrol
@@ -82,7 +83,6 @@ tailscale
 ttf-opensans
 ufw-extras
 unrar
-unzip
 vlc
 xdg-user-dirs
 xl2tpd

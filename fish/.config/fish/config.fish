@@ -52,3 +52,7 @@ function __fzf_select_directory
 end
 
 bind \ct __fzf_select_directory
+
+# BEGIN opam configuration
+test -r '/home/hamza/.opam/opam-init/init.fish' && source '/home/hamza/.opam/opam-init/init.fish' >/dev/null 2>/dev/null; or true
+# END opam configuration

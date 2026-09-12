@@ -21,11 +21,11 @@ history = 10000
 multiplier = 3
 
 [font]
-normal = { family = "RobotoMono Nerd Font", style = "Medium" }
-# bold = { family = "monospace", style = "Bold" }
-# italic = { family = "monospace", style = "Italic" }
-# bold_italic = { family = "monospace", style = "Bold Italic" }
-size = 14.0
+normal = { family = "IosevkaTerm Nerd Font Mono", style = "Medium" }
+bold = { family = "IosevkaTerm Nerd Font Mono", style = "Bold" }
+italic = { family = "IosevkaTerm Nerd Font Mono", style = "Italic" }
+bold_italic = { family = "IosevkaTerm Nerd Font Mono", style = "Bold Italic" }
+size = 16.0
 
 [colors]
 draw_bold_text_with_bright_colors = true

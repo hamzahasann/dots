@@ -122,6 +122,7 @@
     "active_language_button": false
   },
   "project_panel": {
+    "folder_indicator": "icon",
     "hide_hidden": false,
     "hide_root": true,
     "sticky_scroll": true,
@@ -134,7 +135,6 @@
     "auto_reveal_entries": true,
     "indent_size": 20.0,
     "git_status": true,
-    "folder_icons": true,
     "file_icons": true,
     "entry_spacing": "standard",
     "hide_gitignore": false,
@@ -145,7 +145,10 @@
   "ui_font_family": ".ZedSans",
   "buffer_line_height": "standard",
   "buffer_font_weight": 500.0,
-  "buffer_font_family": "MesloLGM Nerd Font",
+  "buffer_font_family": "IosevkaTerm Nerd Font",
+  "buffer_font_features": {
+    "calt": false
+  },
   "telemetry": {
     "diagnostics": false,
     "metrics": false

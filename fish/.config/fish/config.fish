@@ -1,5 +1,10 @@
 source /usr/share/cachyos-fish-config/cachyos-config.fish
 
+# CachyOS man page fix
+set -gx PAGER less
+set -gx MANPAGER less
+set -gx LESS -R
+
 # overwrite greeting
 # potentially disabling fastfetch
 function fish_greeting

@@ -7,6 +7,13 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "tab_size": 2,
+  "use_on_type_format": false,
+  "languages": {
+    "OCaml": {
+      "auto_indent": "preserve_indent"
+    }
+  },
   "ssh_connections": [
     {
       "host": "aw",
